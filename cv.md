@@ -3,11 +3,11 @@
 ## Contacts:
 - Location: Minsk
 - E-mail: sofiatkachenia@gmail.com
-- - - 
+
 
 ## About Me:
 I am a Java developer studying frontend technologies. My strengths are fast learning, great teamwork and a passion for development.
-- - -
+
 
 ## Skills: 
  - _Backend technologies_: Tomcat, Java(8 and 11), Spring, Spring Boot, Hibernate
@@ -16,7 +16,7 @@ I am a Java developer studying frontend technologies. My strengths are fast lear
 - _Databases_: MySQL, PostgreSQL
 - _AWS_: EC2, RDS, S3, IAM
 - _VCS_: Git
-- - -
+
 
 ## Code examples:
 
@@ -50,17 +50,17 @@ I am a Java developer studying frontend technologies. My strengths are fast lear
   return number;
 }
 ```
-- - -
+
 ## Education:
 - Bachelor of Engineering, International Sakharov Environmental Institute (BSU), Minsk:
     - Environmental Monitoring Faculty
 - JWD, EPAM: Basic knowlage of Java, Tomcat, MySQl, HTML, CSS
 - MJC-School, EPAM: Advanced knowlage of Java, MySQL, Spring, Hibernate, HTML, CSS, JavaScript, React.
-- - -
+
 
 ## Work experience:
 Full development of the REST API, including database design, backend and frontend of the application.
-- - -
+
 
 ## Languages:
 - Russian: Native speaker
